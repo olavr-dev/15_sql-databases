@@ -2,7 +2,8 @@
 
 html {
   font-family: 'Montserrat', sans-serif;
-  color: rgb(46, 45, 48);
+  font-size: 1.15rem;
+  color: hsl(260, 3%, 18%);
 }
 
 body {
@@ -16,7 +17,7 @@ main {
 
 a {
   text-decoration: none;
-  color: rgb(89, 0, 255);
+  color: hsl(261, 100%, 50%);
 }
 
 a:hover,
@@ -75,7 +76,7 @@ ol {
   font-size: 2rem;
   font-weight: bold;
   color: white;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #main-header ul {
