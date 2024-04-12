@@ -22,8 +22,13 @@
   margin: 0.5rem 0;
 }
 
+#post-summary {
+  margin: 1rem 0;
+}
+
 .post-item-author {
   font-style: italic;
+  font-size: 0.8rem;
 }
 
 .post-actions {

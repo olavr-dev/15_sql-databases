@@ -3,6 +3,7 @@
 html {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.15rem;
+  /* font-weight: 500; */
   color: hsl(260, 3%, 18%);
 }
 
@@ -17,6 +18,7 @@ main {
 
 a {
   text-decoration: none;
+  font-weight: 500;
   color: hsl(261, 100%, 50%);
 }
 
@@ -37,6 +39,7 @@ ol {
 .btn {
   cursor: pointer;
   font: inherit;
+  font-weight: 500;
   background-color: rgb(89, 0, 255);
   border: 1px solid rgb(89, 0, 255);
   color: white;
